@@ -1,6 +1,6 @@
 # Company XYZ API
 
-A .NET API simulating the simple needs of a company. CRUD for Employees/Users and Jobs. This API is part of a project for school. Originally uisng Node.JS, Express, and MySQL. Migrated over to use .NET 8 and Microsoft SQL Server
+A .NET API simulating the simple needs of a company. CRUD for Employees/Users and Jobs. This API is part of a project for school. Originally uisng Node.JS, Express, and MySQL. Migrated over to use .NET 8 and Microsoft SQL Server.
 
 
 ## Needed Dependencies
